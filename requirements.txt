@@ -4,7 +4,6 @@ APScheduler==3.5.1
 async==0.6.2
 async-timeout==3.0.0
 asyncio==3.4.3
-discord.py==1.0.0a1483+gec3435b
 multidict==4.1.0
 pickleshare==0.7.4
 Pillow==5.1.0
