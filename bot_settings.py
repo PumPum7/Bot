@@ -1,0 +1,9 @@
+TOKEN = ""  # bot token
+prefix = ["prefix "]  # multiple prefixes are possible
+default_game = [f"use {prefix[0]}help"]  # can be anything, just follow the format
+openweathermap_key = ""  # replace with open weathermap key (https://home.openweathermap.org/api_keys)
+weather_unit = "metric"  # can be metric or imperial
+daily_amount = 200    # can be any integer
+daily_time = 24       # in hours
+currency_name = "$"   # can be anything
+database_file = ""    # directory of the database file
